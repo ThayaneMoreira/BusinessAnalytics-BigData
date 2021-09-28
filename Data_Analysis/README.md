@@ -1,4 +1,4 @@
-# MÓDULOS - Data Analysis
+# MÓDULO - Data Analysis
 
 ## Data Modeling
 ## Data Science using Python
