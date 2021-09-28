@@ -1,7 +1,7 @@
 # MBA - Business Analytics & Big Data
 
 Diante de um cenário em constante mudança, da imensidão de dados gerados e da cobrança por decisões mais produtivas, entendi que precisava buscar conhecimentos específicos na área.
-Optei pelo MBA da faculdade Impacta e aqui mostrarei, minha evolução durante as 360h do curso.
+Optei pelo MBA da faculdade Impacta e aqui mostrarei minha evolução ao longo das 360h do curso.
 
 # MÓDULOS:
 
