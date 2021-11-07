@@ -8,7 +8,7 @@
 
 - Indústria ACME
  
-[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/master/Data_Analysis/Data-Modeling)
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/Data-Modeling)
 
 ## Data Science using Python
 
@@ -16,6 +16,6 @@
 
 - Calculadora
 
-[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/master/Data_Analysis/DataSciense-Python)
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataSciense-Python)
 ## Data Exploratory Analysis
 
