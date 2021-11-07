@@ -2,7 +2,8 @@
 
 ### Calculadora
 
-A partir dos conhecimento em sala de aula crie uma calculadora. Ela deverá receber dois valores. Após isso executar os metodos:
+A partir dos conhecimento em sala de aula, crie uma calculadora. Ela deverá receber dois valores. 
+Após isso, executar os metodos:
 - Soma
 - Subtração
 - Multiplicação
