@@ -16,6 +16,6 @@
 
 - Calculadora
 
-[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataSciense-Python)
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python)
 ## Data Exploratory Analysis
 
