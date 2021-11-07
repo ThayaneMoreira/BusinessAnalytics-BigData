@@ -11,5 +11,11 @@
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/master/Data_Analysis/Data-Modeling)
 
 ## Data Science using Python
+
+### Exercício 1
+
+- Calculadora
+
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/master/Data_Analysis/DataSciense-Python)
 ## Data Exploratory Analysis
 
