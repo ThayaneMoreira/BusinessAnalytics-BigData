@@ -16,5 +16,5 @@ Após isso, executar os metodos:
 
 Contar a quantidade de letras no texto e também a quantidade de letras repetidas.
 
-<center><img src="https://user-images.githubusercontent.com/67449365/140667465-e8c90a2b-b472-47a3-a834-c435c7bba7bc.png" alt ="Desafio" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/67449365/140804297-eb3a5702-ff36-484d-8512-18294ba83b55.png" alt ="Desafio" width="800"></center>
 
