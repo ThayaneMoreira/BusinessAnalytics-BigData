@@ -18,6 +18,10 @@
 
 - Desafio 1
 
+### Exercício 2
+
+- Tratamento de dados
+
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python)
 
 
