@@ -11,12 +11,14 @@ Após isso, executar os metodos:
 
 <center><img src="https://user-images.githubusercontent.com/67449365/140665689-a2e48ba0-cc36-4d7f-a0bd-d2655e0c4d28.png" alt ="Calculadora" width="800"></center>
 
-
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python/Calculadora.ipynb)
 ### Desafio 1
 
 Contar a quantidade de letras no texto e também a quantidade de letras repetidas.
 
 <center><img src="https://user-images.githubusercontent.com/67449365/140804297-eb3a5702-ff36-484d-8512-18294ba83b55.png" alt ="Desafio" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python/Desafio1.ipynb)
 
 ### Exercício 2
 
