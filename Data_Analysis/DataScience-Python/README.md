@@ -30,3 +30,5 @@ Contar a quantidade de letras no texto e também a quantidade de letras repetida
 
 
 <center><img src="https://user-images.githubusercontent.com/67449365/142941864-b8c9655b-f33e-4a3d-8d3d-51f9e9a0cd27.png" alt ="Desafio" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python/Tratamento_dados.ipynb)

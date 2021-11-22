@@ -6,7 +6,7 @@ Optei pelo MBA da faculdade Impacta e aqui mostrarei minha evolução ao longo d
 # MÓDULOS:
 
 ## Data Analysis
-[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/master/Data_Analysis)
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis)
 ## Data Architecture
 ## Data Engineering
 ## Advanced Analytics
