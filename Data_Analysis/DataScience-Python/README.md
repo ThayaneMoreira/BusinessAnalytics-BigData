@@ -50,18 +50,19 @@ Contar a quantidade de letras no texto e também a quantidade de letras repetida
 - Crie um mapa de calor
 - Mostre de forma gráfica a distribuição de estados do cadastro
 
-<center><img src="(https://user-images.githubusercontent.com/67449365/143659665-a3c3ce89-fa51-46a5-b7b3-21e3a1fe097e.png" alt ="Trabalho Final" width="800"></center>
-
-<center><img src="https://user-images.githubusercontent.com/67449365/143659567-73dbe34a-73e6-4a72-ba41-58101316b24c.png" alt ="Trabalho Final" width="800"></center>
-
-<center><img src="https://user-images.githubusercontent.com/67449365/143659716-6ecfcdee-b746-439f-b6e3-64f5555744a4.png" alt ="Trabalho Final" width="800"></center>
-
-<center><img src="https://user-images.githubusercontent.com/67449365/143659728-6ab99670-d2ed-4374-9e81-971fa3a4edb7.png" alt ="Trabalho Final" width="800"></center>
-
-<center><img src="https://user-images.githubusercontent.com/67449365/143659768-eed3245e-75f9-4dae-afa5-88c1378ae17b.png" alt ="Trabalho Final" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/67449365/143659909-ca5cbcee-1c08-4ac6-ba28-ad5affe40c2b.png" alt ="Trabalho Final" width="800"></center>
 
 <center><img src="https://user-images.githubusercontent.com/67449365/143659689-968d885c-9e12-40cb-bbe2-44eb1d5fa4ff.png" alt ="Trabalho Final" width="800"></center>
 
-<center><img src="https://user-images.githubusercontent.com/67449365/143659777-15997dc3-8f8a-46be-939d-0e10ebf4bb20.png" alt ="Trabalho Final" width="800"></center>
+<center><img src="https://user-images.githubusercontent.com/67449365/143659768-eed3245e-75f9-4dae-afa5-88c1378ae17b.png" alt ="Trabalho Final" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/143659728-6ab99670-d2ed-4374-9e81-971fa3a4edb7.png" alt ="Trabalho Final" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/143659716-6ecfcdee-b746-439f-b6e3-64f5555744a4.png" alt ="Trabalho Final" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/143659567-73dbe34a-73e6-4a72-ba41-58101316b24c.png" alt ="Trabalho Final" width="800"></center>
+
+<center><img src="(https://user-images.githubusercontent.com/67449365/143659665-a3c3ce89-fa51-46a5-b7b3-21e3a1fe097e.png" alt ="Trabalho Final" width="800"></center>
+
 
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python/Trabalho_final.ipynb)
