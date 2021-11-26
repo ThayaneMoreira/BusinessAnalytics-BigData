@@ -22,6 +22,10 @@
 
 - Tratamento de dados
 
+### Exercício 3
+
+- Trabalho Final
+
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python)
 
 
