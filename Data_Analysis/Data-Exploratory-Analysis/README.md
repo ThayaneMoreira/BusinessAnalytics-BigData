@@ -1,6 +1,6 @@
 ### Exercício 1
 
-- Medidas de Posição
+### Medidas de Posição
 
 - Qual a média da idade da mãe, peso, apgar 1 min, apgar 5 min, quantidade de filhos vivos e quantidade de filhos mortos?
 - Qual a idade tal que metade das idades das mães são menores que ela (mediana)?
