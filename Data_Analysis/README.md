@@ -31,3 +31,8 @@
 
 ## Data Exploratory Analysis
 
+### Exercício 1
+
+- Medidas de Posição
+
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/Data-Exploratory-Analysis)
