@@ -12,6 +12,7 @@ Optei pelo MBA da faculdade Impacta e aqui mostrarei minha evolução ao longo d
 ## Advanced Analytics
 ## Bootcamp
 ## Lab's
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Labs)
 ## Digital Executive Leadership
 
 
