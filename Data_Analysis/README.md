@@ -35,4 +35,12 @@
 
 - Medidas de Posição
 
+### Exercício 2
+
+- Medidas de Dispersão
+
+### Exercício 3
+
+- Representação de variáveis
+
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/Data-Exploratory-Analysis)
