@@ -41,6 +41,6 @@
 
 ### Exercício 3
 
-- Representação de variáveis
+- Representação de Variáveis
 
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/Data-Exploratory-Analysis)

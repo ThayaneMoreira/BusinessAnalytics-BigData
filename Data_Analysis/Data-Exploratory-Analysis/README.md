@@ -54,3 +54,29 @@ Utilizando média e medidas de dispersão, faça o seguinte para a base de nasci
 
 
 [Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python/Thayane-Moreira-Atividade2.ipynb)
+
+### Exercício 3
+
+### Representação de Variáveis
+
+Faça uma análise dos nascidos vivos de SE em 2017 para:
+
+- Fazer o boxplot para idade da mãe e encontrar quais os registro de outliers;
+- Fazer o boxplot para o peso da criança e encontrar quais os registro de outliers;
+- Fazer o histograma da idade do pai;
+- Representar visualmente os diferentes valores de APGAR1 e APGAR5;
+- Mostrar a dispersão entre idade do pai e idade da mãe;
+- Mostrar visualmente a comparação entre idade da mãe e idade do pai para as mães solteiras com menos de 18 anos;
+- Comparar a frequência dos anos de escolaridade das mães para que residem na capital (Aracajú, CODMUNRES 2800308) e das mães em outras cidades (outros CODMUNRES);
+
+<center><img src="https://user-images.githubusercontent.com/67449365/152068269-e09da00d-1458-4f0e-8923-dacabfcbc90f.png" alt ="MRepresentação de Variáveis" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/152068270-7e558f43-1048-4546-a24d-1fcc643e6bee.png" alt ="MRepresentação de Variáveis" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/152068271-bdf7ba35-8708-4893-88ca-d5406972c1c8.png" alt ="MRepresentação de Variáveis" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/152068273-854b8cdb-6d02-4547-a572-dfe0be54cc72.png" alt ="MRepresentação de Variáveis" width="800"></center>
+
+<center><img src="https://user-images.githubusercontent.com/67449365/152068274-5ec89633-b681-4201-9023-95726ff02d7d.png" alt ="MRepresentação de Variáveis" width="800"></center>
+
+[Arquivos](https://github.com/ThayaneMoreira/BusinessAnalytics-BigData/tree/main/Data_Analysis/DataScience-Python/Thayane-Moreira-Atividade3.ipynb)
